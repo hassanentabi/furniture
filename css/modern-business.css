@@ -1,0 +1,113 @@
+
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+/* *************  ************* */
+.body{
+  background-color: #DDD;
+}
+
+.body2{
+
+  background: url(../img/bg1.jpeg)no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+  background-attachment: fixed;
+}
+
+.DivCover {
+  background-color:rgba(51,51,51,0.5);
+}
+
+.navColor {
+  background-color:#6c757d;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: rgb(255,255,255);
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+  color:#F00;
+}
+
+.card-body .card-title a {
+  color: #F00;
+  text-decoration: none;
+}
+
+.card-text{
+ font-weight: bold;
+}
+.card-Category{
+  text-transform: capitalize; 
+  font-weight:normal;
+}
+.card-price{
+  color: rgb(68, 218, 168);
+  font-weight:normal;
+}
+.fontColor{
+  color: #FFF;
+  padding: 0px 5px;
+}
+.fontColor:hover{
+ color:rgba(255, 0, 0, 0.897);
+}
+
+.form-signin {
+  width: 100%;
+  height: 550px;
+  max-width: 330px;
+  padding: 100px  15px;
+  margin: auto;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+/* ************* ************* */
+
