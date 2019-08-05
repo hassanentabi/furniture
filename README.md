@@ -4,30 +4,33 @@ Database : MySql <br>
 Framework [Bootstrap](https://getbootstrap.com/) v4.1.1  <br> 
 Editor : Adobe Dreamweaver CC 2018
 
-home page<br>
+admin username :admin
+admin password :admin
+
+# home page<br>
 ![Screenshot](screencapture/index.png)
 <br>
 
-login page<br>
+# login page<br>
 ![Screenshot](screencapture/login.png)
 <br>
 
-Add Item page<br>
+# Add Item page<br>
 ![Screenshot](screencapture/addItem.png)
 <br>
 
-Add Category page<br>
+# Add Category page<br>
 ![Screenshot](screencapture/addCategory.png)
 <br>
 
-services page<br>
+# services page<br>
 ![Screenshot](screencapture/services.png)
 <br>
 
-Contact page<br>
+# Contact page<br>
 ![Screenshot](screencapture/contact.png)
 <br>
 
-feedback page<br>
+# feedback page<br>
 ![Screenshot](screencapture/feedback.png)
 <br>
