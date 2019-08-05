@@ -3,3 +3,31 @@ Server language : php <br>
 Database : MySql <br>
 Framework [Bootstrap](https://getbootstrap.com/) v4.1.1  <br> 
 Editor : Adobe Dreamweaver CC 2018
+
+home page<br>
+![Screenshot](index.png)
+<br>
+
+login page<br>
+![Screenshot](login.png)
+<br>
+
+Add Item page<br>
+![Screenshot](addItem.png)
+<br>
+
+Add Category page<br>
+![Screenshot](addCategory.png)
+<br>
+
+services page<br>
+![Screenshot](services.png)
+<br>
+
+Contact page<br>
+![Screenshot](contact.png)
+<br>
+
+feedback page<br>
+![Screenshot](feedback.png)
+<br>
