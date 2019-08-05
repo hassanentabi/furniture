@@ -2,10 +2,10 @@
 Server language : php <br>
 Database : MySql <br>
 Framework [Bootstrap](https://getbootstrap.com/) v4.1.1  <br> 
-Editor : Adobe Dreamweaver CC 2018
-
-admin username :admin
-admin password :admin
+Editor : Adobe Dreamweaver CC 2018 <br>
+<br>
+admin username :admin <br>
+admin password :admin <br>
 
 # home page<br>
 ![Screenshot](screencapture/index.png)
