@@ -5,29 +5,29 @@ Framework [Bootstrap](https://getbootstrap.com/) v4.1.1  <br>
 Editor : Adobe Dreamweaver CC 2018
 
 home page<br>
-![Screenshot](index.png)
+![Screenshot](screencapture/index.png)
 <br>
 
 login page<br>
-![Screenshot](login.png)
+![Screenshot](screencapture/login.png)
 <br>
 
 Add Item page<br>
-![Screenshot](addItem.png)
+![Screenshot](screencapture/addItem.png)
 <br>
 
 Add Category page<br>
-![Screenshot](addCategory.png)
+![Screenshot](screencapture/addCategory.png)
 <br>
 
 services page<br>
-![Screenshot](services.png)
+![Screenshot](screencapture/services.png)
 <br>
 
 Contact page<br>
-![Screenshot](contact.png)
+![Screenshot](screencapture/contact.png)
 <br>
 
 feedback page<br>
-![Screenshot](feedback.png)
+![Screenshot](screencapture/feedback.png)
 <br>
